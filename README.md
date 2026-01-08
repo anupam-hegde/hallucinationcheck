@@ -12,8 +12,10 @@
 
 ## 🎥 Demo
 
-![App Demo](demo.gif)
-*> Note: Please upload a recording of the app in action and name it `demo.gif` in the root folder.*
+<div align="center">
+  <img src="demo.gif" alt="App Demo" width="100%" />
+</div>
+
 
 ---
 
