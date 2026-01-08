@@ -59,7 +59,7 @@ graph LR
     
     subgraph "Intelligent Agent"
         API -->|Verify| Agent[Agent Logic]
-        Agent -->|1. Extract Claims| Gemini[Gemini 2.0]
+        Agent -->|1. Extract Claims| Gemini[Gemini 2.5-flash]
         
         Gemini -->|Tool Call| Search[Google Search]
         Gemini -->|Tool Call| Scholar[Semantic Scholar]
