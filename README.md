@@ -25,7 +25,7 @@
 - **📚 Academic Citation Validator**: Detects fake papers using the Semantic Scholar database (200M+ papers).
 - **🔗 Broken URL Detection**: Identifies and flags dead or broken links.
 - **📝 "Redline" Interface**: Visual proof-reading tool—Green for verified, Red for hallucinations.
-- **🤖 Autonomous Agent**: Powered by Gemini 2.0 Flash with function calling.
+- **🤖 Autonomous Agent**: Powered by Gemini 2.5 Flash with function calling.
 
 ---
 
@@ -43,7 +43,7 @@
 - **Server**: Uvicorn
 
 ### AI & Tools
-- **Model**: Google Gemini 2.0 Flash
+- **Model**: Google Gemini 2.5 Flash
 - **Grounding**: Google Search (via Gemini SDK)
 - **Citations**: Semantic Scholar API
 - **Container**: Docker & Docker Compose
