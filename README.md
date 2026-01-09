@@ -1,11 +1,11 @@
-# 🛡️ VibeCheck AI
+# 🛡️ HallucinateCheck AI
 
 > **The "Truth Layer" for AI-generated text.**  
-> Detects hallucinations, verifies facts, and validates citations in real-time using Google Gemini 2.0 and Semantic Scholar.
+> Detects hallucinations, verifies facts, and validates citations in real-time using Google Gemini 2.5 and Semantic Scholar.
 
 [![Frontend](https://img.shields.io/badge/Frontend-React_18-blue?logo=react)](https://react.dev/)
 [![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![AI Model](https://img.shields.io/badge/AI-Gemini_2.0_Flash-4285F4?logo=google)](https://deepmind.google/technologies/gemini/)
+[![AI Model](https://img.shields.io/badge/AI-Gemini_2.5_Flash-4285F4?logo=google)](https://deepmind.google/technologies/gemini/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
